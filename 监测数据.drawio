@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T02:51:11.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.81 Safari/537.36" etag="e8dxdF-L6qDFQW6Fhwi5" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-25T02:56:49.843Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.81 Safari/537.36" etag="GOONVKkroj0ctv6HP8zo" version="20.6.0" type="github">
   <diagram name="Page-1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
     <mxGraphModel dx="1182" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -6,7 +6,7 @@
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
-        <object label="realtime_data" tags="实时上报数据表" id="asXDGfVmtNDfFBTjRBu8-1">
+        <object label="realtime_data" tags="实时上报数据表" tooltip="普通表" id="asXDGfVmtNDfFBTjRBu8-1">
           <mxCell style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
             <mxGeometry x="40" y="40" width="430" height="380" as="geometry">
               <mxRectangle x="40" y="40" width="120" height="30" as="alternateBounds" />
