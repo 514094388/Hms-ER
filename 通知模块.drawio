@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T02:10:57.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.81 Safari/537.36" etag="PjevECx8zfWzQr2cyFKZ" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-28T02:44:15.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.81 Safari/537.36" etag="RTkrT3tl_7zv1eVh5WPK" version="20.6.0" type="github">
   <diagram id="bIS1iyJhP2uXK2yJVhHy" name="第 1 页">
     <mxGraphModel dx="1182" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <object label="table" tags="实时上报数据表" tooltip="普通表" id="3OG4NW8DKBGacQzqwBZW-1">
+        <object label="notification_mode" tags="实时上报数据表" tooltip="普通表" id="3OG4NW8DKBGacQzqwBZW-1">
           <mxCell style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
             <mxGeometry x="40" y="40" width="430" height="350" as="geometry">
               <mxRectangle x="40" y="40" width="120" height="30" as="alternateBounds" />
@@ -19,7 +19,7 @@
             <mxRectangle width="30" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3OG4NW8DKBGacQzqwBZW-4" value="table_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="3OG4NW8DKBGacQzqwBZW-2">
+        <mxCell id="3OG4NW8DKBGacQzqwBZW-4" value="notify_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="3OG4NW8DKBGacQzqwBZW-2">
           <mxGeometry x="30" width="110" height="50" as="geometry">
             <mxRectangle width="110" height="50" as="alternateBounds" />
           </mxGeometry>
@@ -29,7 +29,7 @@
             <mxRectangle width="200" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3OG4NW8DKBGacQzqwBZW-6" value="主键ID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="3OG4NW8DKBGacQzqwBZW-2">
+        <mxCell id="3OG4NW8DKBGacQzqwBZW-6" value="通知模式ID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="3OG4NW8DKBGacQzqwBZW-2">
           <mxGeometry x="340" width="90" height="50" as="geometry">
             <mxRectangle width="90" height="50" as="alternateBounds" />
           </mxGeometry>
@@ -42,12 +42,12 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3OG4NW8DKBGacQzqwBZW-9" value="Rows 1" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="3OG4NW8DKBGacQzqwBZW-7">
+        <mxCell id="3OG4NW8DKBGacQzqwBZW-9" value="NAME" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="3OG4NW8DKBGacQzqwBZW-7">
           <mxGeometry x="30" width="110" height="30" as="geometry">
             <mxRectangle width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3OG4NW8DKBGacQzqwBZW-10" value="Data Type" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="3OG4NW8DKBGacQzqwBZW-7">
+        <mxCell id="3OG4NW8DKBGacQzqwBZW-10" value="varchar(50)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="3OG4NW8DKBGacQzqwBZW-7">
           <mxGeometry x="140" width="200" height="30" as="geometry">
             <mxRectangle width="200" height="30" as="alternateBounds" />
           </mxGeometry>
