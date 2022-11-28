@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T07:26:56.594Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.81 Safari/537.36" etag="3dHZxz3iGyIRkOUpNbG3" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-28T07:27:06.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.81 Safari/537.36" etag="j8YPsG2y8spKrd8pofKv" version="20.6.0" type="github">
   <diagram id="bIS1iyJhP2uXK2yJVhHy" name="第 1 页">
     <mxGraphModel dx="1182" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" math="0" shadow="0">
       <root>
@@ -172,7 +172,7 @@
             <mxRectangle width="130" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <object label="NOTIFICATION_PROPERTIES" tags="实时上报数据表" tooltip="普通表" id="3OG4NW8DKBGacQzqwBZW-42">
+        <object label="NOTIFICATION_PROPERTIES" tags="" tooltip="普通表" id="3OG4NW8DKBGacQzqwBZW-42">
           <mxCell style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
             <mxGeometry x="560" y="40" width="550" height="410" as="geometry">
               <mxRectangle x="40" y="40" width="120" height="30" as="alternateBounds" />
@@ -409,7 +409,7 @@
             <mxRectangle width="130" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <object label="USER_NOTIFY_PACKAGE_PARAM" tags="实时上报数据表" tooltip="普通表" id="3OG4NW8DKBGacQzqwBZW-98">
+        <object label="USER_NOTIFY_PACKAGE_PARAM" tags="" tooltip="普通表" id="3OG4NW8DKBGacQzqwBZW-98">
           <mxCell style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
             <mxGeometry x="40" y="510" width="430" height="350" as="geometry">
               <mxRectangle x="40" y="40" width="120" height="30" as="alternateBounds" />
@@ -600,7 +600,7 @@
             <mxRectangle width="90" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <object label="USER_NOTIFY_PACKAGE" tags="实时上报数据表" tooltip="普通表" id="3OG4NW8DKBGacQzqwBZW-139">
+        <object label="USER_NOTIFY_PACKAGE" tags="" tooltip="普通表" id="3OG4NW8DKBGacQzqwBZW-139">
           <mxCell style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
             <mxGeometry x="560" y="510" width="430" height="350" as="geometry">
               <mxRectangle x="40" y="40" width="120" height="30" as="alternateBounds" />
@@ -791,7 +791,7 @@
             <mxRectangle width="90" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <object label="obj_notify_ref" tags="实时上报数据表" tooltip="普通表" id="3OG4NW8DKBGacQzqwBZW-180">
+        <object label="obj_notify_ref" tags="" tooltip="普通表" id="3OG4NW8DKBGacQzqwBZW-180">
           <mxCell style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
             <mxGeometry x="1620" y="40" width="430" height="350" as="geometry">
               <mxRectangle x="40" y="40" width="120" height="30" as="alternateBounds" />
@@ -982,7 +982,7 @@
             <mxRectangle width="90" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <object label="notify_user_ref" tags="实时上报数据表" tooltip="普通表" id="3OG4NW8DKBGacQzqwBZW-221">
+        <object label="notify_user_ref" tags="" tooltip="普通表" id="3OG4NW8DKBGacQzqwBZW-221">
           <mxCell style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
             <mxGeometry x="1150" y="40" width="450" height="350" as="geometry">
               <mxRectangle x="40" y="40" width="120" height="30" as="alternateBounds" />
@@ -1173,7 +1173,7 @@
             <mxRectangle width="90" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <object label="notify_dest_ref" tags="实时上报数据表" tooltip="普通表" id="3OG4NW8DKBGacQzqwBZW-262">
+        <object label="notify_dest_ref" tags="" tooltip="普通表" id="3OG4NW8DKBGacQzqwBZW-262">
           <mxCell style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
             <mxGeometry x="2090" y="40" width="430" height="350" as="geometry">
               <mxRectangle x="40" y="40" width="120" height="30" as="alternateBounds" />
@@ -1364,7 +1364,7 @@
             <mxRectangle width="90" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <object label="group_dest_ref" tags="实时上报数据表" tooltip="普通表" id="3OG4NW8DKBGacQzqwBZW-303">
+        <object label="group_dest_ref" tags="" tooltip="普通表" id="3OG4NW8DKBGacQzqwBZW-303">
           <mxCell style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
             <mxGeometry x="2090" y="510" width="430" height="350" as="geometry">
               <mxRectangle x="40" y="40" width="120" height="30" as="alternateBounds" />
@@ -1555,7 +1555,7 @@
             <mxRectangle width="90" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <object label="dest_group" tags="实时上报数据表" tooltip="普通表" id="3OG4NW8DKBGacQzqwBZW-344">
+        <object label="dest_group" tags="" tooltip="普通表" id="3OG4NW8DKBGacQzqwBZW-344">
           <mxCell style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
             <mxGeometry x="1620" y="510" width="430" height="350" as="geometry">
               <mxRectangle x="40" y="40" width="120" height="30" as="alternateBounds" />
@@ -1746,7 +1746,7 @@
             <mxRectangle width="90" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <object label="destination" tags="实时上报数据表" tooltip="普通表" id="3OG4NW8DKBGacQzqwBZW-385">
+        <object label="destination" tags="" tooltip="普通表" id="3OG4NW8DKBGacQzqwBZW-385">
           <mxCell style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
             <mxGeometry x="1150" y="510" width="430" height="350" as="geometry">
               <mxRectangle x="40" y="40" width="120" height="30" as="alternateBounds" />
